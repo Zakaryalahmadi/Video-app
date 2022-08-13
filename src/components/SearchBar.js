@@ -2,7 +2,6 @@ import {useState} from 'react'
 
 import '../styles/SearchBar.css'
 
-import DarkMode from './DarkMode'
 
 
 import styled from "styled-components"
