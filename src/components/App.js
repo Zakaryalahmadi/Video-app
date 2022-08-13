@@ -57,27 +57,6 @@ function App(){
 
  
 
-
-  // window.addEventListener("scroll", ()=>{
-
-
-  //   //  console.log('Current scroll from the top: ' + window.pageYOffset);
-  //   //   console.log("scrollTop ",document.body.scrollTop)
-  //   //   console.log("clientHeight ",document.documentElement.clientHeight)
-  //   //   console.log("scrollHeight ",document.body.scrollHeight)
-
-  //     let scrollHeight = document.body.scrollHeight
-  //     let scrollTop = window.pageYOffset
-  //     let clientHeight = document.documentElement.clientHeight
-
-  //     if (scrollHeight - scrollTop === clientHeight) {
-  //         console.log("ok")
-  //         setResults(results + 1)
-  //     }
-  // })
-
-  
-
   const onVideoSelect = (video)=>{
       setSelectedVideo(video)
   }
